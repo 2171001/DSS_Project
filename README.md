@@ -19,6 +19,3 @@ During the transaction process of the user, his camera should capture his face a
 But other than that, if any suspicious transaction patterns are found or the if he is detected as a fraud, he'll be restricted from accessing the database (Website).
 
 For accessing the website there are 3 attempts to authenticate. If all 3 attempts are failed, then the user account which is trying to access will be blocked.
-
-Please modify this if there is a mistake.
-<!-- Add if any...(methods) -->
